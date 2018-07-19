@@ -12,7 +12,7 @@
 
 [吴恩达机器学习笔记（3）——Logistic 回归](https://github.com/a15641404/MLStudy/blob/master/WND/wed3.md)
 
-[吴恩达机器学习笔记（4）——正则化]()
+[吴恩达机器学习笔记（4）——正则化](https://github.com/a15641404/MLStudy/blob/master/WND/wed4.md)
 
 ### 资料搜集分享
 
