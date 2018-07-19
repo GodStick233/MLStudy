@@ -12,6 +12,8 @@
 
 [吴恩达机器学习笔记（3）——Logistic 回归](https://github.com/a15641404/MLStudy/blob/master/WND/wed3.md)
 
+[吴恩达机器学习笔记（4）——正则化]()
+
 ### 资料搜集分享
 
 [TensorFlow快餐教程：程序员快速入门深度学习五步法](https://mp.weixin.qq.com/s/wNIAviaE6UsjHBp3U7SJ4A)
