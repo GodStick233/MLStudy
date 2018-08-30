@@ -16,6 +16,10 @@
 
 [吴恩达机器学习笔记（5）——神经网络](https://github.com/a15641404/MLStudy/blob/master/WND/wed5.md)
 
+### 自建的数据集
+
+[学校教务处验证码（1000个）](https://github.com/a15641404/MLStudy/blob/master/Data/verification_code/imges.tar.gz)
+
 ### 资料搜集分享
 
 [TensorFlow快餐教程：程序员快速入门深度学习五步法](https://mp.weixin.qq.com/s/wNIAviaE6UsjHBp3U7SJ4A)
