@@ -20,7 +20,7 @@
 
 [XGBoost算法](https://github.com/a15641404/MLStudy/blob/master/Algorithm/XGBoost.md)
 
-[粒子群算法]](https://github.com/a15641404/MLStudy/blob/master/Algorithm/PSO.md)
+[粒子群算法](https://github.com/a15641404/MLStudy/blob/master/Algorithm/PSO.md)
 
 ### 自建的数据集
 
